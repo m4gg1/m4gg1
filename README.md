@@ -12,6 +12,7 @@
 [<img align="left" alt="Discord - Maggi#7694" width="50px" src="https://img.icons8.com/color/344/discord-logo.png" />][Discord]
 
 <br />
+<br />
 
 ### I told you I don't use GitHub:
 
