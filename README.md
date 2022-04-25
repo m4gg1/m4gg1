@@ -18,5 +18,5 @@
 
 [![Magnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4gg1)](https://github.com/anuraghazra/github-readme-stats)
 
-[Twitter]: https://twitter.com/MagnusBrandt04
-[Discord]: https://discord.com/users/558301525630386203
+[Twitter]: https://twitter.com/magnusbrandt0
+[Discord]: https://discord.com/users/968242755052646461
